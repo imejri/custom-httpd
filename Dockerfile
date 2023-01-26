@@ -1,4 +1,4 @@
-FROM registry.redhat.io/rhel8/httpd-24@sha256:aa47279b61a85228bfe34e5e9bdd2628a6aee88f26f44d02e06345f4ed479b8e
+FROM httpd:alpine
 
 MAINTAINER issam.mejri@machin.com
 
