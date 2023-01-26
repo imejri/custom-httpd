@@ -1,4 +1,4 @@
-FROM ubi8/ubi:8.3
+FROM registry.redhat.io/rhel8/httpd-24@sha256:aa47279b61a85228bfe34e5e9bdd2628a6aee88f26f44d02e06345f4ed479b8e
 
 MAINTAINER issam.mejri@machin.com
 
